@@ -8,7 +8,7 @@ export default class endScene extends Phaser.Scene {
             this.finalScore = data.score;
     }
     preload(){
-
+ 
     }
 
     create(){
