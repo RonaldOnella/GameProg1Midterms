@@ -30,7 +30,7 @@ export default class deathScene extends Phaser.Scene{
         restart.setInteractive({useHandCursor:true});
         restart.on('pointerdown',() => this.restartButton());
 
-
+ 
     }
 
     menuButton(){
